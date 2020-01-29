@@ -1,0 +1,42 @@
+body {
+    font-family: 'Luckiest Guy',
+        cursive;
+
+}
+
+
+#start-button {
+    background-color:
+        #E864C7;
+    color:
+        #ffe8d6;
+    margin: 1%;
+}
+
+#welcome-text {
+    color:
+        #E864C7;
+    padding: 2%;
+}
+
+#start-container .container {
+    text-align: center;
+    height: 100vh;
+}
+
+#mycontainer {
+
+    text-align: center;
+    display: none;
+}
+
+canvas {
+    background-color: black;
+}
+
+#score_span {
+    font-size: 15pt;
+    font-weight: 600;
+    margin: 40px auto;
+    color: blue;
+}
